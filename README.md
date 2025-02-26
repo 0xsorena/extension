@@ -1,34 +1,34 @@
 1.Multiple:
-https://www.app.multiple.cc/#/signup?inviteCode=75ajFw9a
+https://www.app.multiple.cc/#/signup?inviteCode=7fuVwtGO
 
 https://chromewebstore.google.com/detail/multiple-lite-node/ciljbjmmdhnhgbihlcohoadafmhikgib
 
 2.MinionLabai:
 App (not extention) Sign up and Download Here :
 
-https://app.minionlab.ai/?referralCode=VhCcQjqW
+https://invite.minionlab.io/?referralCode=iHOPtXiT
 
 3.Alliancegames:
 
-https://app.alliancegames.xyz?referral=5ZRFQN
+https://app.alliancegames.xyz?referral=3FZXT9
 
 https://chromewebstore.google.com/detail/alliance-lite-node/koglnjmdddobhhpoomabcconjhaphjbo
 
 4.Despeed:
 
-https://app.despeed.net/register?ref=3l4T5kUNLyNv
+https://app.despeed.net/register?ref=a29PLMLFDR0t
 
 https://chromewebstore.google.com/detail/despeed-validator/ofpfdpleloialedjbfpocglfggbdpiem
 
 5.OpenLoop:
 
-https://openloop.so/auth/register?ref=ol9c8de33e
+https://openloop.so/auth/register?ref=olb951252a
 
 https://chromewebstore.google.com/detail/openloopso-sentry-node-ex/effapmdildnpkiaeghlkicpfflpiambm
 
 6.Gaea:
 
-https://app.aigaea.net/register?ref=gaGK5qnEM7ZNTD
+https://app.aigaea.net/register?ref=gaSIPX78Yn5Ng9
 
 https://chromewebstore.google.com/detail/gaea-extension/cpjicfogbgognnifjgmenmaldnmeeeib
 
